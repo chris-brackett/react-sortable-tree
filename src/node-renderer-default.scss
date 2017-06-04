@@ -178,6 +178,7 @@ $row-padding: 10px;
 
 .toolbarButton {
     @extend %rowItem;
+    background-color: lightblue;
 }
 
 .rowTitle {
