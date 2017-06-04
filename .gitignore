@@ -15,6 +15,6 @@ yarn.lock
 .idea/
 *.DS_Store
 
-# Build directories (Will be preserved by npm)
-dist
+# Build directories (Will be preserved by npm) - commenting dist out for ease of git installation
+#dist
 build
